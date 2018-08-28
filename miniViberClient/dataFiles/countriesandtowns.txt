@@ -1,0 +1,41 @@
+Argentina;Buenos Aires;Córdoba;Rosario;Mendoza;La Plata;Tucumán;Mar del Plata;Salta;Santa Fe;San Juan
+Australia;Sydney;Melbourne;Brisbane;Perth;Adelaide;Gold Coast–Tweed Heads;Newcastle–Maitland;Canberra–Queanbeyan;Sunshine Coast	Queensland;Wollongong
+Austria;Vienna;Graz;Linz;Salzburg;Innsbruck;Klagenfurt;Villach;Wels;Sankt Pölten;Dornbirn
+Belgium;Antwerp;Ghent;Charleroi;Liège;Brussels;Brussels-Capital;Bruges;Namur;Leuven;Mons;Mechelen
+Bosnia and Herzegovina;Sarajevo;Banja Luka;Tuzla;Zenica;Bijeljina;Mostar;Prijedor;Brcko;Doboj;Cazin
+Brazil;São Paulo;Rio de Janeiro;Brasília;Salvador;Fortaleza;Belo Horizonte;Manaus;Curitiba;Recife;Porto Alegre
+Canada;Ottawa;Edmonton;Victoria;Winnipeg;Fredericton;St. John's;Halifax;Toronto;Charlottetown;Quebec City
+China;Hong Kong;Macau;Beijing;Chongqing;Shanghai;Tianjin;Anqing;Bengbu;Bozhou;Chaohu
+Croatia;Zagreb;Split;Rijeka;Osijek;Zadar;Velika Gorica;Slavonski Brod;Pula/Pola;Karlovac;Sisak
+Denmark;Copenhagen;Aarhus;Odense;Aalborg;Esbjerg;Randers;Kolding;Horsens;Vejle;Roskilde
+France;ParisMarseille;Lyon;Toulouse;Nice;Nantes;Strasbourg;Montpellier;Bordeaux;Lille
+Germany;Berlin;Hamburg;Munich;Cologne;Frankfurt;Essen;Stuttgart;Dortmund;Düsseldorf;Bremen
+Greece;Athens;Thessaloniki;Patras;Heraklion;Larissa;Volos;Rhodes;Ioannina;Chania;Agrinio
+Hungary;Budapest;Debrecen;Szeged;Miskolc;Pécs;Gyor;Nyíregyháza;Kecskemét;Székesfehérvár;Szombathely
+Ireland;Dublin;Cork;Limerick;Waterford;Derry;Belfast;Galway;Armagh;Newry;Lisburn
+Italy;Rome;Milan;Naples;Turin;Palermo;Genoa;Bologna;Florence;Bari;Catania
+Japan;Nagoya;Toyohashi;Okazaki;Ichinomiya;Seto;Handa;Kasugai;Toyokawa;Tsushima;Hekinan
+Lithuania;Vilnius;Kaunas;Klaipeda;Siauliai;Panevezys;Alytus;Marijampole;Mazeikiai;Jonava;Utena
+Macedonia;Skopje;Bitola;Kumanovo;Prilep;Tetovo;Veles;Stip;Ohrid;Gostivar;Strumica
+Mexico;Mexico City;Ecatepec;Guadalajara;Puebla;Juárez;Tijuana;León;Zapopan;Monterrey;Nezahualcóyotl
+Montenegro;Podgorica;Nikšic;Herceg Novi;Pljevlja;Bar;Bijelo Polje;Cetinje;Budva;Berane;Ulcinj
+Netherlands;Amsterdam;Rotterdam;The Hague;Utrecht;Eindhoven;Tilburg;Groningen;Almere;Breda;Nijmegen
+New Zealand;Auckland;Wellington;Christchurch;Ha;Tauranga;Napier-Hastings;Dunedin;Palmerston North;Nelson;Rotorua
+Nigeria;Lagos;Kano;Ibadan;Kaduna;Port Harcourt;Benin City;Maiduguri;Zaria;Aba;Jos
+Norway;Oslo;Bergen;Trondheim;Stavanger;Kristiansand;Fredrikstad;Sandnes;Troms;Skien;Drammen
+Poland;Warsaw;Kraków;Lódz;Wroclaw;Poznan;Gdansk;Szczecin;Bydgoszcz;Lublin;Katowice
+Portugal;Lisbon;Porto;Vila Nova de Gaia;Amadora;Braga;Coimbra;Funchal;Almada;Setúbal;Agualva-Cacém
+Romania;Bucharest;Iasi;Cluj-Napoca;Timisoara;Craiova;Constanta;Galati;Brasov;Ploiesti;Braila
+Russia;Moscow;St Petersburg;Novosibirsk;Yekaterinburg;Nizhny Novgorod;Samara;Omsk;Kazan;Rostov;Chelyabinsk
+Serbia;Belgrade;Novi Sad;Niš;Kragujevac;Leskovac;Subotica;Kruševac;Kraljevo;Pancevo;Zrenjanin
+Slovenia;Ljubljana;Maribor;Celje;Kranj;Koper;Velenje;Novo Mesto;Ptuj;Trbovlje;Kamnik
+South Africa;Johannesburg;Cape Town;Durban;Germiston;Pretoria;Nelspruit;Rustenburg;Mthatha;Middelburg;Thohoyandou
+Spain;Madrid;Barcelona;Valencia;Seville;Zaragoza;Málaga;Murcia;Palma;Las Palmas;Bilbao
+Sweden;Stockholm;Göteborg;Malmö;Uppsala;Västerås;Örebro;Linköping;Helsingborg;Huddinge;Jönköping
+Switzerland;Zürich;Geneva;Basel;Lausanne;Bern;Winterthur;Lucerne;St. Gallen;Lugano;Biel/Bienne
+Tunisia;Tunis;Sfax;Sousse;Ettadhamen;Kairouan;Bizerte;Gabès;Aryanah;El Mourouj;Ben Arous;Gafsa
+Turkey;Istanbul;Ankara;Izmir;Bursa;Adana;Gaziantep;Konya;Antalya;Kayseri;Mersin
+Ukraine;Kiev;Kharkiv;Odessa;Dnipro;Dnipro;Zaporizhia;Lviv;Kryvyi;Rih;Mykolaiv;Mariupol
+United Kingdom;London;Birmingham;Leeds;Glasgow;Sheffield;Bradford;Liverpool;Edinburgh;Manchester;Bristol
+United States;New York City;Los Angeles;Chicago;Houston;Philadelphia;Phoenix;San Antonio;San Diego;Dallas;San Jose;
+Uruguay;Montevideo;Salto;Ciudad de la Costa;Paysandú;Las Piedras;Rivera;Maldonado;Tacuarembó;Melo;Mercedes
